@@ -77,7 +77,7 @@ structures so that you can choose from them.
 
 In detail:
 
-Data structure|TC Av Access|Tc Av Search|TC Av In|TC AV De|TC W Access|Tc W Search|TC W In|TC W De|SC W|
+Data structure|Time Complexity Average Access|Time Complexity Average Search|Time Complexity Average Insert|Time Complexity Average Delete|Time Complexity Worst Access|Time Complexity Worst Search|Time Complexity Worst Insert|Time Complexity Worst Delete|Space Complexity (Worst)|
 --------------|------------|------------|--------|--------|-----------|-----------|-------|-------|----|
 Array         |Θ(1)        |Θ(n)        |Θ(n)    |Θ(n)    |O(1)       |O(n)       |O(n)   |O(n)   |O(n)|
 Stack|Θ(n)|Θ(n)|Θ(1)|Θ(1)|O(n)|O(n)|O(1)|O(1)|O(n)|
@@ -93,3 +93,5 @@ Red-Black Tree|Θ(log(n))|Θ(log(n))|Θ(log(n))|Θ(log(n))|O(log(n))|O(log(n))|O
 Splay Tree|N/A|Θ(log(n))|Θ(log(n))|Θ(log(n))|N/A|O(log(n))|O(log(n))|O(log(n))|O(n)|
 AVL Tree|Θ(log(n))|Θ(log(n))|Θ(log(n))|Θ(log(n))|O(log(n))|O(log(n))|O(log(n))|O(log(n))|O(n)|
 KD Tree|Θ(log(n))|Θ(log(n))|Θ(log(n))|Θ(log(n))|O(n)|O(n)|O(n)|O(n)|O(n)|
+
+Remember: in asymptotic analysis we consider growth of algorithm in terms of input size. An algorithm X is said to be asymptotically better than Y if X takes smaller time than y for all input sizes n larger than a value n0 where n0 > 0.
