@@ -43,7 +43,7 @@ See [meta-knowledge](https://github.com/RichardLitt/meta-knowledge) for other li
   * [Bit Manipulation](./computer-science/bit-manipulation.md)
 
 * Software Desing
-  * [SOLID](./software-desing/SOLID.md)
+  * [SOLID](./software-design/SOLID.md)
 
 ## License
 [MIT](https://tldrlegal.com/license/mit-license)
