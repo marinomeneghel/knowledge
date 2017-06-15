@@ -42,5 +42,8 @@ See [meta-knowledge](https://github.com/RichardLitt/meta-knowledge) for other li
     * [Dynamic Programming](./computer-science/algo/dynamic-programming.md)
   * [Bit Manipulation](./computer-science/bit-manipulation.md)
 
+* Software Desing
+  * [SOLID](./software-desing/SOLID.md)
+
 ## License
 [MIT](https://tldrlegal.com/license/mit-license)
