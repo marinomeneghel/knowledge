@@ -7,6 +7,15 @@ See [meta-knowledge](https://github.com/RichardLitt/meta-knowledge) for other li
 
 ## Summary
 
+* Software
+  * Software Design
+    * [SOLID](./software-design/SOLID.md)
+  * Testing
+    * [Resources on testing](./testing/resources.md)
+    * [Test doubles](./testing/test-doubles.md)
+  * Programming languages
+    * [Kotlin](./programming-languages/kotlin.md)
+
 * Computer science
   * [Big O Notation](./computer-science/big-o-notation.md)
   * Data structures
@@ -41,9 +50,6 @@ See [meta-knowledge](https://github.com/RichardLitt/meta-knowledge) for other li
     * [Greedy](./computer-science/algo/greedy.md)
     * [Dynamic Programming](./computer-science/algo/dynamic-programming.md)
   * [Bit Manipulation](./computer-science/bit-manipulation.md)
-
-* Software Desing
-  * [SOLID](./software-design/SOLID.md)
 
 ## License
 [MIT](https://tldrlegal.com/license/mit-license)
